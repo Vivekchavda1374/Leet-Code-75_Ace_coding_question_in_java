@@ -119,5 +119,5 @@ Feel free to explore the solutions and provide feedback or suggestions for impro
 
 ## 📢 Contact
 
-- GitHub: [@ViveksinhChavda](https://github.com/ViveksinhChavda)
-- LinkedIn: [Viveksinh Chavda](https://www.linkedin.com/in/viveksinhchavda)
+- GitHub: [@VivekChavda1374](https://github.com/Vivekchavda1374)
+- LinkedIn: [Vivek Chavda](https://www.linkedin.com/in/vivek-chavda-018380220/)

@@ -2,22 +2,6 @@
 
 Welcome to my LeetCode solutions repository! Here, you'll find my solutions to a variety of LeetCode problems, categorized by difficulty and topic. I have completed the **LeetCode 75** challenge, which includes 75 hand-picked problems across different topics, and I continue to solve more challenges to enhance my problem-solving skills.
 
-## 🚀 Progress Overview
-
-- **LeetCode 75**: Completed
-- **Total Problems Solved**: 75
-- **Current Rank**: 2nd
-- **LeetCode Username**: Viveksinh Chavda
-
-## 🏆 Top Contributors
-
-| Rank | Username             | Problems Solved |
-|------|----------------------|-----------------|
-| 1    | saturn               | 75              |
-| 2    | Viveksinh Chavda     | 75              |
-| 3    | Bhoomika rajput      | 75              |
-| 4    | viorelsmart9         | 75              |
-| 5    | Triet Trinh          | 75              |
 
 ## 📚 Problem Categories
 
@@ -105,7 +89,7 @@ Welcome to my LeetCode solutions repository! Here, you'll find my solutions to a
 
 ## 💻 Tools and Technologies
 
-- **Programming Languages**: Python, JavaScript, Java
+- **Programming Languages**: Java
 - **Development Environment**: VSCode, IntelliJ IDEA
 - **Version Control**: Git
 

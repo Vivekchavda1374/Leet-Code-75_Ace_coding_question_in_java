@@ -125,3 +125,5 @@ Feel free to explore the solutions and provide feedback or suggestions for impro
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
+
+<img src="https://t.bkit.co/w_67580b322fc53.gif" />

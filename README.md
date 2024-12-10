@@ -105,3 +105,23 @@ Feel free to explore the solutions and provide feedback or suggestions for impro
 
 - GitHub: [@VivekChavda1374](https://github.com/Vivekchavda1374)
 - LinkedIn: [Vivek Chavda](https://www.linkedin.com/in/vivek-chavda-018380220/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+<!---LeetCode Topics End-->

@@ -1,121 +1,138 @@
 # LeetCode Solutions
 
-This repository contains solutions to various LeetCode problems implemented in Java. Below is a summary of each problem and its respective Java file.
+Welcome to my LeetCode solutions repository! Here, you'll find my solutions to a variety of LeetCode problems, categorized by difficulty and topic. I have completed the **LeetCode 75** challenge, which includes 75 hand-picked problems across different topics, and I continue to solve more challenges to enhance my problem-solving skills.
 
-## Problem Summaries
 
-### 1. Can Place Flowers
+## 📚 Problem Categories
 
-**File:** `CanPlaceFlowers.java`
+### Array / String
+- Merge Strings Alternately
+- Greatest Common Divisor of Strings
+- Kids With the Greatest Number of Candies
+- Reverse Vowels of a String
+- Reverse Words in a String
+- Product of Array Except Self
+- Increasing Triplet Subsequence
 
-**Description:**
-Given a flowerbed (an array where `flowers[i]` is 0 if the flowerbed plot is empty or 1 if it contains a flower), determine if you can place a new flower in it without violating the no-adjacent-flowers rule.
+### Two Pointers
+- Move Zeroes
+- Is Subsequence
+- Container With Most Water
+- Maximum Average Subarray I
 
-**Example:**
+### Hash Map / Set
+- Find the Difference of Two Arrays
+- Unique Number of Occurrences
+- Determine if Two Strings Are Close
 
-- Input: `flowerbed = [1,0,0,0,1]`, `n = 1`
-- Output: `true`
+### Stack
+- Removing Stars From a String
+- Asteroid Collision
+- Decode String
 
-### 2. Greatest Common Divisor of Strings
+### Queue
+- Number of Recent Calls
+- Dota2 Senate
 
-**File:** `GreatestCommonDivisorOfStrings.java`
+### Linked List
+- Delete the Middle Node of a Linked List
+- Odd Even Linked List
+- Reverse Linked List
+- Maximum Twin Sum of a Linked List
 
-**Description:**
-Given two strings `str1` and `str2`, find the greatest common divisor (GCD) of the two strings. The GCD of strings is the largest string that can divide both `str1` and `str2`.
+### Binary Tree (DFS/BFS)
+- Maximum Depth of Binary Tree
+- Leaf-Similar Trees
+- Count Good Nodes in Binary Tree
+- Path Sum III
+- Lowest Common Ancestor of a Binary Tree
 
-**Example:**
+### Binary Search Tree
+- Search in a Binary Search Tree
+- Delete Node in a BST
 
-- Input: `str1 = "ABCABC"`, `str2 = "ABC"`
-- Output: `"ABC"`
+### Graphs (DFS/BFS)
+- Keys and Rooms
+- Number of Provinces
+- Nearest Exit from Entrance in Maze
+- Rotting Oranges
 
-### 3. Increasing Triplet Subsequence
+### Heap / Priority Queue
+- Kth Largest Element in an Array
+- Maximum Subsequence Score
+- Total Cost to Hire K Workers
 
-**File:** `IncreasingTripletSubsequence.java`
+### Dynamic Programming (1D/Multidimensional)
+- N-th Tribonacci Number
+- Min Cost Climbing Stairs
+- House Robber
+- Unique Paths
+- Longest Common Subsequence
+- Edit Distance
 
-**Description:**
-Given an integer array `nums`, return `true` if there exists a triple `(i, j, k)` such that `i < j < k` and `nums[i] < nums[j] < nums[k]`.
+### Bit Manipulation
+- Counting Bits
+- Single Number
+- Minimum Flips to Make a OR b Equal to c
 
-**Example:**
+### Trie
+- Implement Trie (Prefix Tree)
+- Search Suggestions System
 
-- Input: `nums = [1,2,3,4,5]`
-- Output: `true`
+### Intervals
+- Non-overlapping Intervals
+- Minimum Number of Arrows to Burst Balloons
 
-### 4. Kids With the Greatest Number of Candies
+### Monotonic Stack
+- Daily Temperatures
+- Online Stock Span
 
-**File:** `KidsWithTheGreatestNumberOfCandies.java`
+## 💻 Tools and Technologies
 
-**Description:**
-Given an array `candies` where `candies[i]` represents the number of candies the `i`-th kid has and an integer `extraCandies`, determine if each kid can have the greatest number of candies after receiving the extra candies.
+- **Programming Languages**: Java
+- **Development Environment**: VSCode, IntelliJ IDEA
+- **Version Control**: Git
 
-**Example:**
+## 🎯 Goals
 
-- Input: `candies = [2,3,5,1,3]`, `extraCandies = 3`
-- Output: `[true,true,true,false,true]`
+- Continue solving more problems across various topics.
+- Contribute to open-source projects related to algorithm design and problem-solving.
+- Share insights and approaches to help others improve their coding skills.
 
-### 5. Merge Strings Alternately
+Feel free to explore the solutions and provide feedback or suggestions for improvement.
 
-**File:** `MergeStringsAlternately.java`
+## 📢 Contact
 
-**Description:**
-Given two strings `word1` and `word2`, merge them in alternating characters. If one string is longer than the other, append the additional characters to the end of the merged string.
+- GitHub: [@VivekChavda1374](https://github.com/Vivekchavda1374)
+- LinkedIn: [Vivek Chavda](https://www.linkedin.com/in/vivek-chavda-018380220/)
 
-**Example:**
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/2413-smallest-number-in-infinite-set) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vivekchavda1374/Leet-Code-75_Ace_coding_question_in_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+<!---LeetCode Topics End-->
 
-- Input: `word1 = "abc"`, `word2 = "pqr"`
-- Output: `"apbqcr"`
-
-### 6. Product of Array Except Self
-
-**File:** `ProductOfArrayExceptSelf.java`
-
-**Description:**
-Given an integer array `nums`, return an array `answer` where `answer[i]` is equal to the product of all the elements of `nums` except `nums[i]`.
-
-**Example:**
-
-- Input: `nums = [1,2,3,4]`
-- Output: `[24,12,8,6]`
-
-### 7. Reverse Vowels of a String
-
-**File:** `ReverseVowelsOfAString.java`
-
-**Description:**
-Given a string `s`, reverse only the vowels of the string and return it.
-
-**Example:**
-
-- Input: `s = "hello"`
-- Output: `"holle"`
-
-### 8. Reverse Words in a String
-
-**File:** `ReverseWordsInAString.java`
-
-**Description:**
-Given a string `s`, reverse the words in the string while preserving whitespace and initial word order.
-
-**Example:**
-
-- Input: `"the sky is blue"`
-- Output: `"blue is sky the"`
-
-### 9. String Compression
-
-**File:** `StringCompression.java`
-
-**Description:**
-Given an array of characters `chars`, compress it using the following algorithm: each sequence of consecutive repeating characters is replaced by the character followed by its count. The compressed array should replace the original array and return its length.
-
-**Example:**
-
-- Input: `chars = ['a','a','b','b','c','c','c']`
-- Output: `6` (compressed array: `['a','2','b','2','c','3']`)
-
-## Usage
-
-To run any of these solutions, compile the corresponding Java file and run it using a Java runtime. Make sure to include any necessary test cases to validate the solutions.
-
-```bash
-javac <FileName>.java
-java <FileName>
+<img src="https://t.bkit.co/w_67580b322fc53.gif" />
